@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/marcowang-0423/firat-react.git",
+  "author": "marcowang-0423 <m0983557762@gmail.com>",
+  "license": "MIT"
 }
